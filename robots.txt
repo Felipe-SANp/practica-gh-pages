@@ -1,3 +1,4 @@
 # start of file
 user-agent: *
 disallow: /images/
+Sitemap: https://felipe-sanp.github.io/practica-gh-pages/sitemap.xml
